@@ -39,7 +39,5 @@ public class JavaManyBraces {
 
         boolean result = checkBrackets("{(())[]()()}");
         System.out.println(result);
-
-
     }
 }
